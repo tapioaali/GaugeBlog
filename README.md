@@ -1,0 +1,1 @@
+This is an example Eclipse project created for a blog entry at Vaadin.com.

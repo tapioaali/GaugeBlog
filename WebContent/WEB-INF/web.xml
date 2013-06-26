@@ -16,6 +16,12 @@
 			<param-name>UI</param-name>
 			<param-value>org.vaadin.blog.GaugeUI</param-value>
 		</init-param>
+		<init-param>
+			<description>
+			Application widgetset</description>
+			<param-name>widgetset</param-name>
+			<param-value>org.vaadin.blog.widgetset.GaugeblogWidgetset</param-value>
+		</init-param>
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>Gaugeblog Application</servlet-name>
